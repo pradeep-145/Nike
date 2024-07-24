@@ -3,7 +3,7 @@ import Button from '../components/Button'
 import { shoe4, shoe5, shoe6, shoe7, shoe8 } from '../assets/images'
 const SuperQuality = () => {
   return (
-    <section id="aboutUs" className='flex justify-between items-center max-lg:flex-col  gap-10 w-full max-container'>
+    <section id="about-us" className='flex justify-between items-center max-lg:flex-col  gap-10 w-full max-container'>
       <div className=' flex-col flex flex-1'>
       <h2 className='mt-10 text-4xl font-palanquin max-sm:text-[72px] max-sm:leading-[82px]  font-bold'>
         
